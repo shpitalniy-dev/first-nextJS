@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {"id": 1, "title": "JavaScript" },
+        {"id": 2, "title": "Java" },
+        {"id": 3, "title": "C#" }
+    ],
+    "title": {
+        "about": "Страница о нас"
+    }
+}
